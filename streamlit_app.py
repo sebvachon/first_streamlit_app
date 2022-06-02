@@ -4,9 +4,9 @@ streamlit.title('My Parents New Healthy Diner')
 
 streamlit.header('Breakfast Menu')
 
-streamlit.title('Oatmeal')
+streamlit.text('Oatmeal')
 
-streamlit.title('Kale')
+streamlit.text('Kale')
 
-streamlit.title('Eggs')
+streamlit.text('Eggs')
 
